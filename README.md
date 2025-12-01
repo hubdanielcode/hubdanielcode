@@ -1,13 +1,13 @@
 <h1 align="center">Daniel Lorenzo</h1>
 
-## Oi, Galera!! 👋
+## Hello, Developers!! 👋
 
-Tenho 30 anos, moro em **Salvador/BA** e sou um Médico Veterinário que está se aventurando no mundo da programação! <br>
-Sou iniciante no desenvolvimento web, mas estudo diariamente para me tornar um desenvolvedor full stack e evoluir sempre!
+I'm 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding <br>
+I'm brand new to web development, I study daily to become a professional front-end developer. My goal is to do my best and always improve!
 
 ---
 
-## 😺 Mood atual:
+## 😺 My Mood:
 
 <p align="center">
   <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="400">
@@ -15,7 +15,7 @@ Sou iniciante no desenvolvimento web, mas estudo diariamente para me tornar um d
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo:
+## 🧠 Tecnhnologies I know:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" height="70"/>
@@ -23,7 +23,7 @@ Sou iniciante no desenvolvimento web, mas estudo diariamente para me tornar um d
 
 ---
 
-## 📬 Onde me encontrar?
+## 📬 Where to Find Me:
 
 <p align="center">
   <a href="https://wa.me/+55719996173547?text=Oi!%20Achei%20seu%20whatsapp%20no%20seu%20perfil%20do%20GitHub!">
