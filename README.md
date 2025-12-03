@@ -2,7 +2,7 @@
 
 ## Hello, Developers!! 👋
 
-I'm 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding <br>
+I'm 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding. <br>
 Even tho I'm brand new to web development, I study daily to become a professional front-end developer. <br>
 My goal is to do my best and always improve!
 
