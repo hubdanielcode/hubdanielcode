@@ -16,7 +16,7 @@ My goal is to do my best and always improve!
 
 ---
 
-## 🧠 Tecnhnologies I know:
+## 🧠 Tecnhnologies I know so far:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" height="70"/>
@@ -24,6 +24,13 @@ My goal is to do my best and always improve!
 
 ---
 
+## 🧠 Libs I know so far:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React icon" />
+</p>
+
+---
 ## 📬 Where to Find Me:
 
 <p align="center">
