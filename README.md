@@ -1,5 +1,7 @@
 <h1 align="center">Daniel Lorenzo</h1>
 
+---
+
 ## 📬 Where to Find Me:
 
 <p align="center">
