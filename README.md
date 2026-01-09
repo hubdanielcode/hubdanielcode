@@ -1,11 +1,5 @@
 <h1 align="center">Daniel Lorenzo</h1>
 
-## Hello, Developers!! 👋
-
-I'm a 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding. <br>
-Even tho I'm brand new to web development, I study daily to become a professional front-end developer. <br>
-My goal is to do my best and always improve!
-
 ## 📬 Where to Find Me:
 
 <p align="center">
@@ -22,6 +16,14 @@ My goal is to do my best and always improve!
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <a/>
 </p>
+
+---
+
+## Hello, Developers!! 👋
+
+I'm a 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding. <br>
+Even tho I'm brand new to web development, I study daily to become a professional front-end developer. <br>
+My goal is to do my best and always improve!
       
 ---
 
