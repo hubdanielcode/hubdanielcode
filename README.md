@@ -26,7 +26,7 @@ My goal is to do my best and always improve!
 ## 🧠 Tecnhnologies I'm learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="70"/>
+  <img src="https://skillicons.dev/icons?i=ts,postgres" height="70"/>
 </p>
 
 ---
