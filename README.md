@@ -7,6 +7,18 @@ Even tho I'm brand new to web development, I study daily to become a professiona
 My goal is to do my best and always improve!
 
 ---
+## 📬 Where to Find Me:
+
+<p align="center">
+  <a href="https://wa.me/+55719996173547?text=Oi!%20Achei%20seu%20whatsapp%20no%20seu%20perfil%20do%20GitHub!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/odaniellorenzo">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniellorenzodev/">
+
+---
 
 ## 😺 My Mood:
 
@@ -37,17 +49,6 @@ My goal is to do my best and always improve!
   <img src="https://skillicons.dev/icons?i=react" height="70" alt="React icon" />
 </p>
 
----
-## 📬 Where to Find Me:
-
-<p align="center">
-  <a href="https://wa.me/+55719996173547?text=Oi!%20Achei%20seu%20whatsapp%20no%20seu%20perfil%20do%20GitHub!">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/odaniellorenzo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daniellorenzodev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a href="mailto:danlorenzo.of@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
