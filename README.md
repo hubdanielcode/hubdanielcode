@@ -38,14 +38,14 @@ My goal is to do my best and always improve!
 ## 🧠 Tecnhnologies I know so far:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github" height="70"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github" height="70"/>
 </p>
 
 ---
 ## 🧠 Tecnhnologies I'm learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,postgres" height="70"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="70"/>
 </p>
 
 ---
