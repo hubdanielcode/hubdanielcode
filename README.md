@@ -19,11 +19,10 @@
 
 ---
 
-## Hello, Developers!! 👋
+## Hello, Devs!! 👋
 
-I'm a 30 years old veterinarian that lives in **Salvador/BA** who is currently venturing into the world of programming/coding. <br>
-Even tho I'm brand new to web development, I study daily to become a professional front-end developer. <br>
-My goal is to do my best and always improve!
+Junior Frontend Developer at the beginning of their career, focused on web development and building responsive interfaces using HTML, CSS, TailwindCSS JavaScript and TypeScript. </br> </br>
+My goal is to do my best and always improve with a focus on continuous learning and technical growth!
       
 ---
 
