@@ -34,23 +34,33 @@ My goal is to do my best and always improve with a focus on continuous learning 
 
 ---
 
-## 🧠 Tecnhnologies I know so far:
+## 🧠 Technologies I Know So Far:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github" height="70"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="45" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" />
+  
 </p>
 
 ---
-## 🧠 Tecnhnologies I'm learning:
+
+## 🧠 Technologies I'm Learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="70"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" />
 </p>
 
 ---
 
-## 🧠 Libs I know so far:
+## 🧠 Libraries I Know So Far:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="React icon" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="45" />
+</p>
 </p>
