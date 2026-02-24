@@ -21,8 +21,9 @@
 
 ## Hello, Devs!! 👋
 
-Junior Frontend Developer at the beginning of their career, focused on web development and building responsive interfaces using HTML, CSS, TailwindCSS JavaScript and TypeScript. </br> </br>
-My goal is to do my best and always improve with a focus on continuous learning and technical growth!
+Frontend Developer specialized in React and TypeScript, focused on building scalable, maintainable, and production-ready web applications.
+
+I have hands-on experience with REST API integration, JWT authentication, protected routes, and global state management using Hooks and Context API. I prioritize clean architecture, type safety, performance, and user-centered interfaces.
       
 ---
 
