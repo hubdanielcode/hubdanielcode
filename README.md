@@ -116,17 +116,3 @@ Administrative dashboard consuming a public REST API.
 🔗 Repository: https://github.com/hubdanielcode/React_Dashboard_Project
 
 ---
-
-### ✅ Task List App
-
-Full CRUD task management application.
-
-- Create, edit, delete tasks
-- Inline editing
-- REST simulation using JSON Server
-- Structured component organization
-- Responsive layout
-
-🔗 Repository: https://github.com/hubdanielcode/React_Todo_Project
-
----
