@@ -43,13 +43,6 @@ Atualmente evoluindo em direção a uma posição mid-level e expandindo para fu
 
 ---
 
-## 😺 My Mood:
-<p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="400">
-</p>
-
----
-
 ## 🧠 Technologies I Know So Far:
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" />
