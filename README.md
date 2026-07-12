@@ -101,18 +101,3 @@ Personal Finance Dashboard built with React and TypeScript.
 🔗 Repository: https://github.com/hubdanielcode/Finanzy-App
 
 ---
-
-### 📊 React Dashboard (Work in Progress)
-
-Administrative dashboard consuming a public REST API.
-
-- Frontend pagination
-- Dynamic search functionality
-- Data visualization
-- User editing features
-- Geolocation integration
-- Structured API handling with loading & error states
-
-🔗 Repository: https://github.com/hubdanielcode/React_Dashboard_Project
-
----
