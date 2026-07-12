@@ -127,8 +127,3 @@ Dashboard de **gestão financeira pessoal**, com controle de receitas e despesas
 🔗 Repositório: https://github.com/hubdanielcode/Finanzy-App
 
 ---
-
-### 🛠️ Admin Dashboard
-*(Aguardando README para preencher esta seção.)*
-
----
