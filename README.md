@@ -8,7 +8,7 @@
   <a href="https://daniellorenzo-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+55719996173547?text=Oi!%20Achei%20seu%20whatsapp%20no%20seu%20perfil%20do%20GitHub!">
+  <a href="https://wa.me/+55719996173547?text=Hi!%20I%20found%20your%20whatsapp%20on%20your%20GitHub%20profile!">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/odaniellorenzo">
@@ -25,21 +25,21 @@
 ---
 
 ## Hello, Devs!! 👋
-Frontend Developer especializado em **React e TypeScript**, focado em construir aplicações web escaláveis, sustentáveis e prontas para produção — do primeiro wireframe até deploy e testes automatizados.
+Frontend Developer specialized in **React and TypeScript**, focused on building scalable, maintainable, production-ready web applications — from the first wireframe to deployment and automated testing.
 
-Tenho experiência prática com:
-- Integração com REST APIs e Backend as a Service (Supabase)
-- Autenticação JWT, rotas protegidas e isolamento de dados por usuário
-- CRUD completo com camadas de services dedicadas
-- Arquitetura escalável organizada por **features** (authentication, domínio, shared)
-- Gerenciamento de estado global com Hooks & Context API
-- Testes automatizados com Vitest & React Testing Library (componentes, hooks, services e utils)
-- Visualização de dados com gráficos interativos (Recharts)
-- Upload/recorte de imagens, temas claro/escuro e UI responsiva (desktop, mobile e landscape)
+I have hands-on experience with:
+- REST API integration and Backend as a Service (Supabase)
+- JWT authentication, protected routes, and per-user data isolation
+- Full CRUD with dedicated service layers
+- Scalable architecture organized by **features** (authentication, domain, shared)
+- Global state management with Hooks & Context API
+- Automated testing with Vitest & React Testing Library (components, hooks, services, and utils)
+- Data visualization with interactive charts (Recharts)
+- Image upload/cropping, light/dark themes, and responsive UI (desktop, mobile, and landscape)
 
-Priorizo **arquitetura limpa, type safety, performance e separação de responsabilidades** para criar codebases previsíveis e escaláveis — e cubro isso com testes desde os hooks até os fluxos de tela.
+I prioritize **clean architecture, type safety, performance, and separation of concerns** to build predictable, scalable codebases — covering everything from hooks to full screen flows with tests.
 
-Atualmente evoluindo em direção a uma posição mid-level e expandindo para full-stack com Next.js.
+Currently evolving toward a mid-level position and expanding into full-stack development with Next.js.
 
 ---
 
@@ -75,7 +75,7 @@ Atualmente evoluindo em direção a uma posição mid-level e expandindo para fu
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" />
 </p>
 <p align="center">
-Aprendendo Next.js (SSR, SSG, rotas de API e Server Actions) para evoluir em direção a uma stack full-stack, além de aprofundar padrões avançados de TypeScript e arquitetura frontend escalável.
+Learning Next.js (SSR, SSG, API routes, and Server Actions) to grow into a full-stack skillset, along with deepening advanced TypeScript patterns and scalable frontend architecture.
 </p>
 
 ---
@@ -83,40 +83,40 @@ Aprendendo Next.js (SSR, SSG, rotas de API e Server Actions) para evoluir em dir
 ## 🧩 Featured Projects
 
 ### 🤖 Codara AI
-Plataforma de **análise inteligente de código** com IA, onde o usuário cola ou escreve código e recebe erros encontrados, sugestões, melhorias e código corrigido, com histórico de chats e sistema de patches.
-- Autenticação JWT via Supabase com rotas protegidas
-- Arquitetura por features (authentication, code-review, shared)
-- Integração com Monaco Editor e upload/recorte de foto de perfil
-- Tema claro/escuro e layout responsivo (desktop, mobile e landscape)
-- Suíte de testes com Vitest + React Testing Library cobrindo contexts, hooks e services
+An **AI-powered intelligent code analysis** platform where the user pastes or writes code and receives detected errors, suggestions, improvements, and corrected code, complete with chat history and a patch system.
+- JWT authentication via Supabase with protected routes
+- Feature-based architecture (authentication, code-review, shared)
+- Monaco Editor integration and profile photo upload/cropping
+- Light/dark theme and responsive layout (desktop, mobile, and landscape)
+- Test suite with Vitest + React Testing Library covering contexts, hooks, and services
 
 🔗 Deploy: https://codara-ai.vercel.app/
-🔗 Repositório: https://github.com/hubdanielcode/Codara-AI
+🔗 Repository: https://github.com/hubdanielcode/Codara-AI
 
 ---
 
 ### 🐾 PetMatch
-Plataforma de **cadastro e adoção de pets**, com ficha de anamnese completa, feed com filtros, perfis de pets e tutores, avaliações por estrelas e comentários.
-- Arquitetura por features (authentication, pet-registration, user-profile, shared)
-- CRUD completo de pets e tutores com hooks customizados por domínio
-- Sistema de avaliação e comentários integrado ao Supabase
-- Badges dinâmicos por raça/características do pet
-- Suíte de testes com Vitest + React Testing Library cobrindo hooks, pages e services
+A **pet registration and adoption** platform featuring a complete intake form, filterable feed, pet and owner profiles, star ratings, and comments.
+- Feature-based architecture (authentication, pet-registration, user-profile, shared)
+- Full CRUD for pets and owners with domain-specific custom hooks
+- Rating and comment system integrated with Supabase
+- Dynamic badges based on pet breed/traits
+- Test suite with Vitest + React Testing Library covering hooks, pages, and services
 
 🔗 Deploy: https://pet-match-app-nine.vercel.app/
-🔗 Repositório: https://github.com/hubdanielcode/PetMatch-App
+🔗 Repository: https://github.com/hubdanielcode/PetMatch-App
 
 ---
 
 ### 💰 Finanzy
-Dashboard de **gestão financeira pessoal**, com controle de receitas e despesas, saldo automático e gráficos interativos.
-- Autenticação JWT via Supabase com isolamento de dados por usuário
-- Dashboard com gráficos de entradas/saídas, saldo mensal e categorias (Recharts)
-- Hooks customizados para cálculo de dados dos gráficos em tempo real
-- Layout responsivo, incluindo suporte a mobile landscape
-- Suíte de testes com Vitest + React Testing Library cobrindo componentes, hooks e utils
+A **personal finance management** dashboard with income/expense tracking, automatic balance calculation, and interactive charts.
+- JWT authentication via Supabase with per-user data isolation
+- Dashboard with income/expense charts, monthly balance, and categories (Recharts)
+- Custom hooks for real-time chart data calculations
+- Responsive layout, including mobile landscape support
+- Test suite with Vitest + React Testing Library covering components, hooks, and utils
 
 🔗 Deploy: https://finanzy-app.vercel.app/
-🔗 Repositório: https://github.com/hubdanielcode/Finanzy-App
+🔗 Repository: https://github.com/hubdanielcode/Finanzy-App
 
 ---
